@@ -1,0 +1,52 @@
+[{
+	"codigo": 520178874,
+	"nomeCompleto": "SOLANGE DE CASSIA OLIVEIRA",
+	"sexo": "M",
+	"optIns": {
+		"PARCEIROS": {
+			"tipo": "PARCEIROS",
+			"optIn": false
+		},
+		"PRIVACIDADE": {
+			"tipo": "PRIVACIDADE",
+			"optIn": true
+		},
+		"SMS": {
+			"tipo": "SMS",
+			"optIn": false
+		},
+		"WHATSAPP": {
+			"tipo": "WHATSAPP",
+			"optIn": false
+		},
+		"EMAIL": {
+			"tipo": "EMAIL",
+			"optIn": false
+		}
+	},
+	"contatoBasico": {
+		"telefones": {
+			"celular": {
+				"numero": "992051807",
+				"tipo": "celular",
+				"obrigatorio": false,
+				"DDD": "67"
+			},
+			"residencial": {
+				"numero": "32040219",
+				"tipo": "residencial",
+				"obrigatorio": false,
+				"DDD": "67"
+			}
+		},
+		"email": "marcelo30@gmail.com"
+	},
+	"dataNascimento": "08/06/1982",
+	"ativo": true,
+	"consultaRestrita": false,
+	"status": "0",
+	"habilitarOptIn": false,
+	"percentualPreenchimento": 59.0,
+	"CPF": "94994757100",
+	"tipoCliente": 1
+}]

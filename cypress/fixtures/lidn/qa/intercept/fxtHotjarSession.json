@@ -1,0 +1,21 @@
+{
+	"headers": {
+		"content-type": "application/octet-stream",
+		"content-length": "0",
+		"connection": "keep-alive",
+		"access-control-allow-origin": "*",
+		"cache-control": "no-store",
+		"date": "Tue, 14 Dec 2021 12:53:26 GMT",
+		"server": "Python/3.7 aiohttp/3.5.4",
+		"x-cache": "Miss from cloudfront",
+		"via": "1.1 81d299a580e85cd7d4af1e1123f3282a.cloudfront.net (CloudFront)",
+		"x-amz-cf-pop": "GRU3-C2",
+		"x-amz-cf-id": "htuvGCd241hOSFlLFdHmBLB4n_6Rq0aP6OQi8omI4_MUswe1gtkaWw=="
+	},
+	"url": "https://vc.hotjar.io/sessions/2429995?s=0.25&r=0.09307620556462859",
+	"method": null,
+	"httpVersion": "1.1",
+	"statusCode": 204,
+	"statusMessage": "No Content",
+	"body": ""
+}

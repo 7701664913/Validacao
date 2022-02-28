@@ -1,0 +1,18 @@
+
+{
+	"video": false,
+	"defaultCommandTimeout": 10000,
+	"requestTimeout": 50000,
+	"env": {
+		"ENV":"qa",
+		"allure": true,
+		"baseUrl": "http://localhost:8012/meusite"
+	},
+	"reporter": "mochawesome",
+	"reporterOptions": {
+		"reportDir": "mochawesome-report/json",
+		"overwrite": false,
+		"html": false,
+		"json": true
+	}
+}

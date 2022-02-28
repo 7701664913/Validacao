@@ -1,0 +1,85 @@
+{
+	"id": "interceptedRequest13067",
+	"browserRequestId": "13476.129",
+	"routeId": "1640185315430-24",
+	"request": {
+		"headers": {
+			"host": "api.viamais-qa.ocp-eqx.dc.nova",
+			"proxy-connection": "keep-alive",
+			"accept": "application/json, text/plain, */*",
+			"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+			"content-type": "application/json",
+			"origin": "http://casasbahia.viamais-qa.ocp-eqx.dc.nova",
+			"referer": "http://casasbahia.viamais-qa.ocp-eqx.dc.nova/",
+			"accept-encoding": "gzip, deflate",
+			"accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
+		},
+		"url": "http://api.viamais-qa.ocp-eqx.dc.nova/vv-comunicacao/comunicacoes/vigentes?bandeira=CASAS_BAHIA&localizacao=EXTERNA&tipoExibicao=VIA_MAIS",
+		"method": "GET",
+		"httpVersion": "1.1",
+		"body": "",
+		"responseTimeout": 30000
+	},
+	"state": "Complete",
+	"requestWaited": true,
+	"responseWaited": true,
+	"subscriptions": [],
+	"response": {
+		"headers": {
+			"date": "Wed, 22 Dec 2021 15:01:56 GMT",
+			"content-type": "application/json",
+			"transfer-encoding": "chunked",
+			"x-content-type-options": "nosniff",
+			"x-xss-protection": "1; mode=block",
+			"cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+			"pragma": "no-cache",
+			"expires": "0",
+			"x-frame-options": "DENY",
+			"access-control-allow-credentials": "true",
+			"access-control-allow-origin": "http://casasbahia.viamais-qa.ocp-eqx.dc.nova",
+			"access-control-expose-headers": "x-correlation-id, X-Total-Count",
+			"vary": "Origin",
+			"x-correlation-id": "39946592-c56e-471e-c7f4-fefe125adbf0",
+			"set-cookie": ["407b318b7c8f52aaf623c250a7698aad=9e0d85231c9672a80a23faa1501b74d4; path=/; HttpOnly"]
+		},
+		"url": "http://api.viamais-qa.ocp-eqx.dc.nova/vv-comunicacao/comunicacoes/vigentes?bandeira=CASAS_BAHIA&localizacao=EXTERNA&tipoExibicao=VIA_MAIS",
+		"method": null,
+		"httpVersion": "1.1",
+		"statusCode": 200,
+		"statusMessage": "",
+		"body": [{
+			"id": 1087,
+			"titulo": "Teste CB default",
+			"tipoExibicao": "VIA_MAIS",
+			"bandeira": "CASAS_BAHIA",
+			"localizacao": "EXTERNA",
+			"padrao": "SIM",
+			"ativo": "SIM",
+			"inicioVigencia": null,
+			"fimVigencia": null,
+			"url": "http://intranetsistemas.viavarejo.com.br/config/img/admin/comunicacao/hom/1087/1be4236b-7163-4c55-9430-c31e4f0670d9.png"
+		}, {
+			"id": -7,
+			"titulo": "teste 12",
+			"tipoExibicao": "VIA_MAIS",
+			"bandeira": "CASAS_BAHIA",
+			"localizacao": "EXTERNA",
+			"padrao": "SIM",
+			"ativo": "SIM",
+			"inicioVigencia": null,
+			"fimVigencia": null,
+			"url": "http://intranetsistemas.viavarejo.com.br/config/img/admin/comunicacao/hom/-7/12.png"
+		}, {
+			"id": -8,
+			"titulo": "teste 11",
+			"tipoExibicao": "VIA_MAIS",
+			"bandeira": "CASAS_BAHIA",
+			"localizacao": "EXTERNA",
+			"padrao": "SIM",
+			"ativo": "SIM",
+			"inicioVigencia": null,
+			"fimVigencia": null,
+			"url": "http://intranetsistemas.viavarejo.com.br/config/img/admin/comunicacao/hom/-8/11.png"
+		}]
+	}
+}

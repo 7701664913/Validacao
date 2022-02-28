@@ -1,0 +1,50 @@
+{
+	"id": "interceptedRequest706",
+	"browserRequestId": "21380.123",
+	"routeId": "1639416026660-12",
+	"request": {
+		"headers": {
+			"host": "api.viamais-qa.ocp-eqx.dc.nova",
+			"proxy-connection": "keep-alive",
+			"accept": "application/json, text/plain, /",
+			"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36",
+			"origin": "http://casasbahia.viamais-qa.ocp-eqx.dc.nova",
+			"referer": "http://casasbahia.viamais-qa.ocp-eqx.dc.nova/",
+			"accept-encoding": "gzip, deflate",
+			"accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
+		},
+		"url": "http://api.viamais-qa.ocp-eqx.dc.nova/uaa/bandeiras/",
+		"method": "GET",
+		"httpVersion": "1.1",
+		"body": "",
+		"responseTimeout": 30000
+	},
+	"state": "Complete",
+	"requestWaited": true,
+	"responseWaited": true,
+	"subscriptions": [],
+	"response": {
+		"headers": {
+			"date": "Mon, 13 Dec 2021 17:20:28 GMT",
+			"content-type": "application/json",
+			"vary": "Origin",
+			"access-control-allow-origin": "http://casasbahia.viamais-qa.ocp-eqx.dc.nova",
+			"access-control-expose-headers": "x-correlation-id, X-Total-Count",
+			"access-control-allow-credentials": "true",
+			"x-content-type-options": "nosniff",
+			"x-xss-protection": "1; mode=block",
+			"cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+			"pragma": "no-cache",
+			"expires": "0",
+			"x-frame-options": "DENY",
+			"x-correlation-id": "29cd0290-ed45-40ea-c01a-d55d54480b94",
+			"set-cookie": ["407b318b7c8f52aaf623c250a7698aad=9e0d85231c9672a80a23faa1501b74d4; path=/; HttpOnly"]
+		},
+		"url": "http://api.viamais-qa.ocp-eqx.dc.nova/uaa/bandeiras/",
+		"method": null,
+		"httpVersion": "1.1",
+		"statusCode": 204,
+		"statusMessage": "",
+		"body": ""
+	}
+}

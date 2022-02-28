@@ -1,0 +1,27 @@
+{
+	"codigo": "61bcd54bee950e00010f4dfd",
+	"codigoCarrinho": "6081c39c710f580001223f20",
+	"valorTotal": 0.00,
+	"valorFrete": 0,
+	"valorMercadoria": 0.00,
+	"valorServicos": 0,
+	"quantidadeItensSacola": 0,
+	"status": "ABERTO",
+	"codigoFilial": 1000,
+	"codigoEmpresa": 21,
+	"codigoBandeira": 1,
+	"codigoVendedor": 620,
+	"regras": {
+		"documentoFiscal": {
+			"emiteNotaFiscal": false
+		}
+	},
+	"cupomAplicado": false,
+	"atendimentos": ["61bcd54bd40f9066325d12a2"],
+	"dataHora": "2021-12-17T16:22:03.642",
+	"requisitoCrediario": {
+		"digitalizacaoCapturada": false,
+		"biometriaCapturada": false
+	},
+	"descontoNaoRecomendado": false
+}

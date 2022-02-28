@@ -1,0 +1,28 @@
+{
+	"headers": {
+		"server": "nginx",
+		"date": "Wed, 08 Dec 2021 19:49:05 GMT",
+		"content-type": "application/json",
+		"transfer-encoding": "chunked",
+		"last-modified": "Wednesday, 08-Dec-2021 19:49:05 UTC",
+		"etag": "W/\"617ae698-eeb\"",
+		"access-control-allow-origin": "*",
+		"access-control-allow-credentials": "true",
+		"access-control-allow-methods": "GET, POST, PUT, DELETE, OPTIONS",
+		"access-control-allow-headers": "Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+		"access-control-expose-headers": "Authorization",
+		"expires": "Wed, 08 Dec 2021 22:00:00 GMT",
+		"cache-control": "max-age=7855, private",
+		"content-encoding": "gzip",
+        "fake-header": "sneaky"
+	},
+	"url": "testeNovoTemplate/home/package.json",
+	"method": null,
+	"httpVersion": "1.1",
+	"statusCode": 200,
+	"statusMessage": "Concluido com sucesso",
+	"body": {
+		"fake-body": "Carlos"
+		
+	}
+}

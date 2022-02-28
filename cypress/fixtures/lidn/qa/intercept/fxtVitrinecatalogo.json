@@ -1,0 +1,1484 @@
+{
+	"produtos": [{
+		"sku": 4466950,
+		"tipoProduto": "MERCADORIA",
+		"nomeResumido": "Sofá 2 Lugares Luizzi Duque em Veludo",
+		"nomeCompleto": "Sofá 2 Lugares Luizzi Duque em Veludo",
+		"setor": 33,
+		"estados": {
+			"PADRAO": {
+				"estadoDescricao": "Padrão",
+				"tipo": 1,
+				"comissao": 16.48,
+				"preco": {
+					"por": 823.90
+				},
+				"estoque": {
+					"loja": 0,
+					"possuiDeposito": false,
+					"entregavelViaDeposito": false
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"SALDO": {
+				"estadoDescricao": "Saldo",
+				"tipo": 2,
+				"comissao": 14.86,
+				"preco": {
+					"por": 743.20
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"MOSTRUARIO": {
+				"estadoDescricao": "Mostruario",
+				"tipo": 3,
+				"comissao": 14.86,
+				"preco": {
+					"por": 743.20
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"RESERVADO": {
+				"estadoDescricao": "Reservado",
+				"tipo": 4,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 50
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"CD": {
+				"estadoDescricao": "CD",
+				"tipo": 6,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"PENDENTE": {
+				"estadoDescricao": "Pendente",
+				"tipo": 7,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 66
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			}
+		},
+		"imagemPrincipal": {
+			"THUMBNAIL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1054837363"
+			},
+			"MEDIA": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1054837368"
+			},
+			"PRINCIPAL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1054837365"
+			},
+			"ZOOM": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1054837367"
+			}
+		},
+		"slugCategoria": "Sala-de-Estar-Categoria",
+		"tagVitrine": [{
+			"nome": "PENDENTE",
+			"descricao": "Pendente",
+			"textoTag": "Pendente",
+			"corFundo": "#ff6633",
+			"corTexto": "#000000"
+		}, {
+			"textoTag": "Importação de SKU",
+			"corFundo": "#2ac121",
+			"corTexto": "#cb17ce"
+		}],
+		"canal": "LOJA_FISICA"
+	}, {
+		"sku": 3729885,
+		"tipoProduto": "MERCADORIA",
+		"nomeResumido": "Secador de Cabelos Philco Beauty Style Preto 1900W",
+		"nomeCompleto": "Secador de Cabelos Philco Beauty Style Preto 1900W",
+		"setor": 46,
+		"estados": {
+			"PADRAO": {
+				"estadoDescricao": "Padrão",
+				"tipo": 1,
+				"comissao": 1.80,
+				"preco": {
+					"por": 89.90
+				},
+				"estoque": {
+					"loja": 99192,
+					"possuiDeposito": false,
+					"entregavelViaDeposito": false
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"SALDO": {
+				"estadoDescricao": "Saldo",
+				"tipo": 2,
+				"comissao": 1.19,
+				"preco": {
+					"por": 59.30
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"MOSTRUARIO": {
+				"estadoDescricao": "Mostruario",
+				"tipo": 3,
+				"comissao": 1.19,
+				"preco": {
+					"por": 59.30
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"RESERVADO": {
+				"estadoDescricao": "Reservado",
+				"tipo": 4,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 793
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"CD": {
+				"estadoDescricao": "CD",
+				"tipo": 6,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"PENDENTE": {
+				"estadoDescricao": "Pendente",
+				"tipo": 7,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			}
+		},
+		"imagemPrincipal": {
+			"THUMBNAIL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=166123568"
+			},
+			"MEDIA": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=166123583"
+			},
+			"PRINCIPAL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=166123577"
+			},
+			"ZOOM": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=166123580"
+			}
+		},
+		"slugCategoria": "Secadores-e-Modeladores-Eletricos-Categoria",
+		"canal": "LOJA_FISICA"
+	}, {
+		"sku": 4102541,
+		"tipoProduto": "MERCADORIA",
+		"nomeResumido": "Bicicleta Infantil Aro 16 Tina Houston - Preta",
+		"nomeCompleto": "Bicicleta Infantil Aro 16 Tina Houston - Preta",
+		"setor": 17,
+		"estados": {
+			"PADRAO": {
+				"estadoDescricao": "Padrão",
+				"tipo": 1,
+				"comissao": 13.58,
+				"preco": {
+					"por": 679.00
+				},
+				"estoque": {
+					"loja": 98837,
+					"possuiDeposito": true,
+					"entregavelViaDeposito": false
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"SALDO": {
+				"estadoDescricao": "Saldo",
+				"tipo": 2,
+				"comissao": 13.44,
+				"preco": {
+					"por": 672.21
+				},
+				"estoque": {
+					"loja": 99950
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"MOSTRUARIO": {
+				"estadoDescricao": "Mostruario",
+				"tipo": 3,
+				"comissao": 13.44,
+				"preco": {
+					"por": 672.21
+				},
+				"estoque": {
+					"loja": 99960
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"RESERVADO": {
+				"estadoDescricao": "Reservado",
+				"tipo": 4,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 1341
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"CD": {
+				"estadoDescricao": "CD",
+				"tipo": 6,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 305
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"PENDENTE": {
+				"estadoDescricao": "Pendente",
+				"tipo": 7,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			}
+		},
+		"imagemPrincipal": {
+			"THUMBNAIL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=865226197"
+			},
+			"MEDIA": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=865226201"
+			},
+			"PRINCIPAL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=865226199"
+			},
+			"ZOOM": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=865226200"
+			}
+		},
+		"slugCategoria": "Bicicletas-Infantojuvenis-Categoria",
+		"canal": "LOJA_FISICA"
+	}, {
+		"sku": 161993,
+		"tipoProduto": "MERCADORIA",
+		"nomeResumido": "Lavadora de Roupas Brastemp 11 kg BWJ11AB com Turbo Performance",
+		"nomeCompleto": "Lavadora de Roupas Brastemp 11 kg BWJ11AB com Turbo Performance – Branca",
+		"setor": 27,
+		"estados": {
+			"PADRAO": {
+				"estadoDescricao": "Padrão",
+				"tipo": 1,
+				"comissao": 16.99,
+				"preco": {
+					"por": 1699.00
+				},
+				"estoque": {
+					"loja": 99113,
+					"possuiDeposito": true,
+					"entregavelViaDeposito": false
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"SALDO": {
+				"estadoDescricao": "Saldo",
+				"tipo": 2,
+				"comissao": 16.82,
+				"preco": {
+					"por": 1682.01
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"MOSTRUARIO": {
+				"estadoDescricao": "Mostruario",
+				"tipo": 3,
+				"comissao": 16.82,
+				"preco": {
+					"por": 1682.01
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"RESERVADO": {
+				"estadoDescricao": "Reservado",
+				"tipo": 4,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 885
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"CD": {
+				"estadoDescricao": "CD",
+				"tipo": 6,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 19893
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"PENDENTE": {
+				"estadoDescricao": "Pendente",
+				"tipo": 7,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 20
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			}
+		},
+		"imagemPrincipal": {
+			"THUMBNAIL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=603006938"
+			},
+			"MEDIA": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=603006942"
+			},
+			"PRINCIPAL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=603006940"
+			},
+			"ZOOM": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=603006941"
+			}
+		},
+		"slugCategoria": "Maquina-de-Lavar-Categoria",
+		"tagVitrine": [{
+			"nome": "PENDENTE",
+			"descricao": "Pendente",
+			"textoTag": "Pendente",
+			"corFundo": "#ff6633",
+			"corTexto": "#000000"
+		}],
+		"canal": "LOJA_FISICA"
+	}, {
+		"sku": 1258740,
+		"tipoProduto": "CONJUNTO",
+		"nomeResumido": "Conjunto Sofá 2 e 3 Lugares Master Roma em Tecido Suede Veludo",
+		"nomeCompleto": "Conjunto Sofá 2 e 3 Lugares Master Roma em Tecido Suede Veludo",
+		"setor": 33,
+		"estados": {
+			"PADRAO": {
+				"estadoDescricao": "Padrão",
+				"tipo": 1,
+				"comissao": 29.98,
+				"preco": {
+					"por": 1499.00
+				},
+				"estoque": {
+					"loja": 99738,
+					"possuiDeposito": true,
+					"entregavelViaDeposito": false
+				},
+				"regras": {
+					"permiteConfiguracao": true,
+					"permiteVenda": true
+				}
+			},
+			"SALDO": {
+				"estadoDescricao": "Saldo",
+				"tipo": 2,
+				"comissao": 29.98,
+				"preco": {
+					"por": 1499.00
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"MOSTRUARIO": {
+				"estadoDescricao": "Mostruario",
+				"tipo": 3,
+				"comissao": 29.98,
+				"preco": {
+					"por": 1499.00
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"RESERVADO": {
+				"estadoDescricao": "Reservado",
+				"tipo": 4,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 261
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"CD": {
+				"estadoDescricao": "CD",
+				"tipo": 6,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 115
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"PENDENTE": {
+				"estadoDescricao": "Pendente",
+				"tipo": 7,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			}
+		},
+		"imagemPrincipal": {
+			"THUMBNAIL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1051620262"
+			},
+			"MEDIA": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1051620267"
+			},
+			"PRINCIPAL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1051620264"
+			},
+			"ZOOM": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1051620266"
+			}
+		},
+		"slugCategoria": "Quartos-e-Dormitorios-Categoria",
+		"canal": "LOJA_FISICA"
+	}, {
+		"sku": 1901338,
+		"tipoProduto": "MERCADORIA",
+		"nomeResumido": "Ferro a Seco Black + Decker VFA ECO com Controle de Temperatura",
+		"nomeCompleto": "Ferro a Seco Black + Decker VFA ECO com Controle de Temperatura - Craquelado",
+		"setor": 21,
+		"estados": {
+			"PADRAO": {
+				"estadoDescricao": "Padrão",
+				"tipo": 1,
+				"comissao": 0.60,
+				"preco": {
+					"por": 29.90
+				},
+				"estoque": {
+					"loja": 99429,
+					"possuiDeposito": false,
+					"entregavelViaDeposito": false
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"SALDO": {
+				"estadoDescricao": "Saldo",
+				"tipo": 2,
+				"comissao": 0.59,
+				"preco": {
+					"por": 29.60
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"MOSTRUARIO": {
+				"estadoDescricao": "Mostruario",
+				"tipo": 3,
+				"comissao": 0.59,
+				"preco": {
+					"por": 29.60
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"RESERVADO": {
+				"estadoDescricao": "Reservado",
+				"tipo": 4,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 570
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"CD": {
+				"estadoDescricao": "CD",
+				"tipo": 6,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"PENDENTE": {
+				"estadoDescricao": "Pendente",
+				"tipo": 7,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			}
+		},
+		"imagemPrincipal": {
+			"THUMBNAIL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=452906472"
+			},
+			"MEDIA": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=452906479"
+			},
+			"PRINCIPAL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=452906476"
+			},
+			"ZOOM": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=452906478"
+			}
+		},
+		"slugCategoria": "Ferro-de-Passar-Categoria",
+		"canal": "LOJA_FISICA"
+	}, {
+		"sku": 1273263,
+		"tipoProduto": "CONJUNTO",
+		"nomeResumido": "Ar-Condicionado Split Philco PAC9000TFM9 9000BTU/h Frio - 220V",
+		"nomeCompleto": "Ar-Condicionado Split Philco PAC9000TFM9 9000BTU/h Frio - 220V",
+		"setor": 29,
+		"estados": {
+			"PADRAO": {
+				"estadoDescricao": "Padrão",
+				"tipo": 1,
+				"comissao": 9.99,
+				"preco": {
+					"por": 999.00
+				},
+				"estoque": {
+					"loja": 935,
+					"possuiDeposito": true,
+					"entregavelViaDeposito": false
+				},
+				"regras": {
+					"permiteConfiguracao": true,
+					"permiteVenda": true
+				}
+			},
+			"SALDO": {
+				"estadoDescricao": "Saldo",
+				"tipo": 2,
+				"comissao": 9.99,
+				"preco": {
+					"por": 999.00
+				},
+				"estoque": {
+					"loja": 999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"MOSTRUARIO": {
+				"estadoDescricao": "Mostruario",
+				"tipo": 3,
+				"comissao": 9.99,
+				"preco": {
+					"por": 999.00
+				},
+				"estoque": {
+					"loja": 999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"RESERVADO": {
+				"estadoDescricao": "Reservado",
+				"tipo": 4,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 108
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"CD": {
+				"estadoDescricao": "CD",
+				"tipo": 6,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 306
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"PENDENTE": {
+				"estadoDescricao": "Pendente",
+				"tipo": 7,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			}
+		},
+		"imagemPrincipal": {
+			"THUMBNAIL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1191131617"
+			},
+			"MEDIA": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1191131701"
+			},
+			"PRINCIPAL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1191131648"
+			},
+			"ZOOM": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1191131685"
+			}
+		},
+		"slugCategoria": "Ar-Condicionado-Categoria",
+		"canal": "LOJA_FISICA"
+	}, {
+		"sku": 1232486,
+		"tipoProduto": "CONJUNTO",
+		"nomeResumido": "Conjunto Sofá 2 e 3 Lugares Master Roma em Tecido Suede Veludo",
+		"nomeCompleto": "Conjunto Sofá 2 e 3 Lugares Master Roma em Tecido Suede Veludo",
+		"setor": 33,
+		"estados": {
+			"PADRAO": {
+				"estadoDescricao": "Padrão",
+				"tipo": 1,
+				"comissao": 29.98,
+				"preco": {
+					"por": 1499.00
+				},
+				"estoque": {
+					"loja": 99738,
+					"possuiDeposito": true,
+					"entregavelViaDeposito": false
+				},
+				"regras": {
+					"permiteConfiguracao": true,
+					"permiteVenda": true
+				}
+			},
+			"SALDO": {
+				"estadoDescricao": "Saldo",
+				"tipo": 2,
+				"comissao": 29.98,
+				"preco": {
+					"por": 1499.00
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"MOSTRUARIO": {
+				"estadoDescricao": "Mostruario",
+				"tipo": 3,
+				"comissao": 29.98,
+				"preco": {
+					"por": 1499.00
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"RESERVADO": {
+				"estadoDescricao": "Reservado",
+				"tipo": 4,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 256
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"CD": {
+				"estadoDescricao": "CD",
+				"tipo": 6,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 1192
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"PENDENTE": {
+				"estadoDescricao": "Pendente",
+				"tipo": 7,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			}
+		},
+		"imagemPrincipal": {
+			"THUMBNAIL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1051620178"
+			},
+			"MEDIA": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1051620183"
+			},
+			"PRINCIPAL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1051620180"
+			},
+			"ZOOM": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1051620182"
+			}
+		},
+		"slugCategoria": "Sala-de-Estar-Categoria",
+		"canal": "LOJA_FISICA"
+	}, {
+		"sku": 958020,
+		"tipoProduto": "CONJUNTO",
+		"nomeResumido": "Cozinha Completa Bartira Rubi com 7 Portas e 5 Gavetas",
+		"nomeCompleto": "Cozinha Completa Bartira Rubi com 7 Portas e 5 Gavetas",
+		"setor": 31,
+		"estados": {
+			"PADRAO": {
+				"estadoDescricao": "Padrão",
+				"tipo": 1,
+				"comissao": 37.98,
+				"preco": {
+					"por": 1899.00
+				},
+				"estoque": {
+					"loja": 99394,
+					"possuiDeposito": false,
+					"entregavelViaDeposito": false
+				},
+				"regras": {
+					"permiteConfiguracao": true,
+					"permiteVenda": true
+				}
+			},
+			"SALDO": {
+				"estadoDescricao": "Saldo",
+				"tipo": 2,
+				"comissao": 37.98,
+				"preco": {
+					"por": 1899.00
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"MOSTRUARIO": {
+				"estadoDescricao": "Mostruario",
+				"tipo": 3,
+				"comissao": 37.98,
+				"preco": {
+					"por": 1899.00
+				},
+				"estoque": {
+					"loja": 99999
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"RESERVADO": {
+				"estadoDescricao": "Reservado",
+				"tipo": 4,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 600
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"CD": {
+				"estadoDescricao": "CD",
+				"tipo": 6,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			},
+			"PENDENTE": {
+				"estadoDescricao": "Pendente",
+				"tipo": 7,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": false
+				}
+			}
+		},
+		"imagemPrincipal": {
+			"THUMBNAIL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=844764953"
+			},
+			"MEDIA": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=844764960"
+			},
+			"PRINCIPAL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=844764957"
+			},
+			"ZOOM": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=844764959"
+			}
+		},
+		"slugCategoria": "Cozinhas-Categoria",
+		"canal": "LOJA_FISICA"
+	}, {
+		"sku": 3958213,
+		"tipoProduto": "MERCADORIA",
+		"nomeResumido": "Armário para Micro-ondas Bartira Rubi com Nicho",
+		"nomeCompleto": "Armário para Micro-ondas Bartira Rubi com Nicho",
+		"setor": 31,
+		"estados": {
+			"PADRAO": {
+				"estadoDescricao": "Padrão",
+				"tipo": 1,
+				"comissao": 3.38,
+				"preco": {
+					"por": 169.00
+				},
+				"estoque": {
+					"loja": 48,
+					"possuiDeposito": false,
+					"entregavelViaDeposito": false
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"SALDO": {
+				"estadoDescricao": "Saldo",
+				"tipo": 2,
+				"comissao": 2.70,
+				"preco": {
+					"por": 135.20
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"MOSTRUARIO": {
+				"estadoDescricao": "Mostruario",
+				"tipo": 3,
+				"comissao": 2.70,
+				"preco": {
+					"por": 135.20
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"RESERVADO": {
+				"estadoDescricao": "Reservado",
+				"tipo": 4,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 2
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"CD": {
+				"estadoDescricao": "CD",
+				"tipo": 6,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 0
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			},
+			"PENDENTE": {
+				"estadoDescricao": "Pendente",
+				"tipo": 7,
+				"comissao": 0.00,
+				"preco": {
+					"por": 0
+				},
+				"estoque": {
+					"loja": 196
+				},
+				"regras": {
+					"permiteConfiguracao": false,
+					"permiteVenda": true
+				}
+			}
+		},
+		"imagemPrincipal": {
+			"THUMBNAIL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=831239259"
+			},
+			"MEDIA": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=831239284"
+			},
+			"PRINCIPAL": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=831239269"
+			},
+			"ZOOM": {
+				"imagem": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=831239276"
+			}
+		},
+		"slugCategoria": "Cozinhas-Categoria",
+		"tagVitrine": [{
+			"nome": "PENDENTE",
+			"descricao": "Pendente",
+			"textoTag": "Pendente",
+			"corFundo": "#ff6633",
+			"corTexto": "#000000"
+		}],
+		"canal": "LOJA_FISICA"
+	}],
+	"estruturasMercadologicas": [{
+		"slug": "Moveis-Departamento",
+		"descricao": "Móveis",
+		"quantidadeItens": 2546,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Brinquedos-Departamento",
+		"descricao": "Brinquedos",
+		"quantidadeItens": 811,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Outros-Departamento",
+		"descricao": "Outros",
+		"quantidadeItens": 780,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Utilidades-Domesticas-Departamento",
+		"descricao": "Utilidades Domésticas",
+		"quantidadeItens": 529,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Livros-Departamento",
+		"descricao": "Livros",
+		"quantidadeItens": 494,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Celulares-e-Telefones-Departamento",
+		"descricao": "Celulares e Telefones",
+		"quantidadeItens": 474,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Eletrodomesticos-Departamento",
+		"descricao": "Eletrodomésticos",
+		"quantidadeItens": 454,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Bebes-Departamento",
+		"descricao": "Bebês",
+		"quantidadeItens": 404,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Portateis-Departamento",
+		"descricao": "Portáteis",
+		"quantidadeItens": 354,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Esporte-e-Lazer-Departamento",
+		"descricao": "Esporte e Lazer",
+		"quantidadeItens": 338,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Informatica-Departamento",
+		"descricao": "Informática",
+		"quantidadeItens": 323,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Acessorios-e-Inovacoes-Departamento",
+		"descricao": "Acessórios e Inovações",
+		"quantidadeItens": 284,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Ar-e-Ventilacao-Departamento",
+		"descricao": "Ar e Ventilação",
+		"quantidadeItens": 180,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Games-Departamento",
+		"descricao": "Games",
+		"quantidadeItens": 177,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Decoracao--Departamento",
+		"descricao": "Decoração ",
+		"quantidadeItens": 152,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Ferramentas-Departamento",
+		"descricao": "Ferramentas",
+		"quantidadeItens": 147,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Saude-e-Beleza-Departamento",
+		"descricao": "Saúde e Beleza",
+		"quantidadeItens": 120,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "TV-e-Video-Departamento",
+		"descricao": "TV e Vídeo",
+		"quantidadeItens": 117,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "DVDs-&-Blu-Ray-Departamento",
+		"descricao": "DVDs & Blu-Ray",
+		"quantidadeItens": 110,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Cama--Mesa-e-Banho-Departamento",
+		"descricao": "Cama, Mesa e Banho",
+		"quantidadeItens": 85,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Tablets-Departamento",
+		"descricao": "Tablets",
+		"quantidadeItens": 84,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Moda-Departamento",
+		"descricao": "Moda",
+		"quantidadeItens": 74,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Casa-e-Construcao-Departamento",
+		"descricao": "Casa e Construção",
+		"quantidadeItens": 67,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Relogios-Departamento",
+		"descricao": "Relógios",
+		"quantidadeItens": 63,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Malas-Departamento",
+		"descricao": "Malas",
+		"quantidadeItens": 60,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Audio-Departamento",
+		"descricao": "Áudio",
+		"quantidadeItens": 53,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Cameras-e-Filmadoras-Departamento",
+		"descricao": "Câmeras e Filmadoras",
+		"quantidadeItens": 45,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Calcados-Departamento",
+		"descricao": "Calçados",
+		"quantidadeItens": 31,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Automotivo-Departamento",
+		"descricao": "Automotivo",
+		"quantidadeItens": 29,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Cameras--Filmadoras-e-Drones--Departamento",
+		"descricao": "Câmeras, Filmadoras e Drones ",
+		"quantidadeItens": 26,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Natal-Departamento",
+		"descricao": "Natal",
+		"quantidadeItens": 11,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Produtos-de-Limpeza-Departamento",
+		"descricao": "Produtos de Limpeza",
+		"quantidadeItens": 10,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Agro--Industria-e-Comercio-Departamento",
+		"descricao": "Agro, Indústria e Comércio",
+		"quantidadeItens": 9,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Papelaria-Departamento",
+		"descricao": "Papelaria",
+		"quantidadeItens": 5,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Perfumaria-Departamento",
+		"descricao": "Perfumaria",
+		"quantidadeItens": 5,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}, {
+		"slug": "Joias-e-Bijuterias-Departamento",
+		"descricao": "Joias e Bijuterias",
+		"quantidadeItens": 1,
+		"subItem": false,
+		"tipo": "DEPARTAMENTO",
+		"selecionado": false,
+		"tipoItem": "NORMAL"
+	}],
+	"filtros": {
+		"precos": {
+			"minimo": 0.50,
+			"maximo": 39990.00
+		}
+	},
+	"detalhe": false
+}

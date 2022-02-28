@@ -1,0 +1,59 @@
+    {
+        "mercadoria_secador": {
+            "sku": "3729885"
+        },
+        "nome": {
+            "110": "Secador de Cabelos Philco Beauty Style Preto 1900W",
+            "220": "Secador de Cabelos Philco Beauty Style Preto 1900W"
+        },
+        "voltagem": {
+            "110": "110v",
+            "220": "220v"
+        },
+        "garantia": {
+            "opcao1": "12",
+            "opcao2": "24",
+            "opcao3": "36"
+        },
+        "metadados": {
+            "requerimentos": [
+                "mercadoria",
+                "voltagem",
+                "garantia"
+            ],
+            "permissoes": [
+                "estoqueProduto",
+                "limiteMostruario",
+
+                    {
+                    "mercadoria_lavadoura": {
+                        "sku": "161993"
+                    },
+                    "nome": {
+                        "110": "Lavadora de Roupas Brastemp 11 kg BWJ11AB com Turbo Performance – Branca",
+                        "220": "Lavadora de Roupas Brastemp 11 kg BWJ11AB com Turbo Performance – Branca"
+                    },
+                    "voltagem": {
+                        "110": "110v",
+                        "220": "220v"
+                    },
+                    "garantia": {
+                        "opcao1": "12",
+                        "opcao2": "24",
+                        "opcao3": "36"
+                    },
+                    "metadados": {
+                        "requerimentos": [
+                            "mercadoria",
+                            "voltagem",
+                            "garantia"
+                        ],
+                        "permissoes": [
+                            "estoqueProduto",
+                            "limiteMostruario"
+                        ]
+                    }
+                }
+            ]
+        }
+    }

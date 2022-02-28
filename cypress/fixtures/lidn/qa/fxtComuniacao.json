@@ -1,0 +1,34 @@
+[{
+	"id": 1087,
+	"titulo": "Teste CB default",
+	"tipoExibicao": "VIA_MAIS",
+	"bandeira": "CASAS_BAHIA",
+	"localizacao": "EXTERNA",
+	"padrao": "SIM",
+	"ativo": "SIM",
+	"inicioVigencia": null,
+	"fimVigencia": null,
+	"url": "http://intranetsistemas.viavarejo.com.br/config/img/admin/comunicacao/hom/1087/1be4236b-7163-4c55-9430-c31e4f0670d9.png"
+}, {
+	"id": -7,
+	"titulo": "teste 12",
+	"tipoExibicao": "VIA_MAIS",
+	"bandeira": "CASAS_BAHIA",
+	"localizacao": "EXTERNA",
+	"padrao": "SIM",
+	"ativo": "SIM",
+	"inicioVigencia": null,
+	"fimVigencia": null,
+	"url": "http://intranetsistemas.viavarejo.com.br/config/img/admin/comunicacao/hom/-7/12.png"
+}, {
+	"id": -8,
+	"titulo": "teste 11",
+	"tipoExibicao": "VIA_MAIS",
+	"bandeira": "CASAS_BAHIA",
+	"localizacao": "EXTERNA",
+	"padrao": "SIM",
+	"ativo": "SIM",
+	"inicioVigencia": null,
+	"fimVigencia": null,
+	"url": "http://intranetsistemas.viavarejo.com.br/config/img/admin/comunicacao/hom/-8/11.png"
+}]

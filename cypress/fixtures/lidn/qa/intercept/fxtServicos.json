@@ -1,0 +1,40 @@
+{
+	"servicos": [{
+		"tipo": "GARANTIA",
+		"garantia": {
+			"codigoSeguradora": 205,
+			"faixaComissao": {
+				"percentualMinimo": 7.50,
+				"percentualMaximo": 7.50,
+				"comissaoMinima": 3.90,
+				"comissaoMaxima": 5.17
+			},
+			"planos": [{
+				"vigencia": 12,
+				"valor": 52.00,
+				"codigoCategoria": 46,
+				"comissao": {
+					"valor": 3.90,
+					"percentual": 7.50
+				}
+			}, {
+				"vigencia": 24,
+				"valor": 69.00,
+				"codigoCategoria": 46,
+				"comissao": {
+					"valor": 5.17,
+					"percentual": 7.50
+				}
+			}, {
+				"vigencia": 36,
+				"valor": 69.00,
+				"codigoCategoria": 46,
+				"comissao": {
+					"valor": 5.17,
+					"percentual": 7.50
+				}
+			}]
+		}
+	}],
+	"mostrarComboServicos": true
+}

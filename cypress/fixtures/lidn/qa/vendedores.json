@@ -1,0 +1,14 @@
+{
+    "vendedor_casas_bahia": {
+        "filial": "1000",
+        "empresa": "21",
+        "matricula": "620",
+        "senha": "homolog01"
+    },
+    "vendedor_ponto_frio": {
+        "filial": "685",
+        "empresa": "21",
+        "matricula": "X",
+        "senha": "homolog01"
+    }
+}

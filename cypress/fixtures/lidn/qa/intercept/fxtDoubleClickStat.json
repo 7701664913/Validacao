@@ -1,0 +1,24 @@
+{
+	"headers": {
+		"access-control-allow-origin": "http://casasbahia.viamais-qa.ocp-eqx.dc.nova",
+		"strict-transport-security": "max-age=10886400; includeSubDomains; preload",
+		"date": "Tue, 14 Dec 2021 12:36:18 GMT",
+		"pragma": "no-cache",
+		"expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+		"cache-control": "no-cache, no-store, must-revalidate",
+		"last-modified": "Sun, 17 May 1998 03:00:00 GMT",
+		"access-control-allow-credentials": "true",
+		"x-content-type-options": "nosniff",
+		"content-type": "text/plain",
+		"cross-origin-resource-policy": "cross-origin",
+		"server": "Golfe2",
+		"content-length": "1",
+		"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+	},
+	"url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-161191972-11&cid=1125109886.1639485378&jid=596988484&gjid=570516205&_gid=1956918208.1639485378&_u=YGBAgEABAAAAAE~&z=2137653501",
+	"method": null,
+	"httpVersion": "1.1",
+	"statusCode": 200,
+	"statusMessage": "OK",
+	"body": "1"
+}

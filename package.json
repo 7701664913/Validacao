@@ -45,7 +45,7 @@
 	"devDependencies": {
 		"@cypress/webpack-preprocessor": "^5.11.1",
 		"allure-commandline": "^2.13.0",
-		"cypress": "^9.1.1",
+		"cypress": "9.7.0",
 		"cypress-config-switcher": "^1.0.0",
 		"cypress-file-upload": "^4.1.1",
 		"cypress-xpath": "^1.6.1",
